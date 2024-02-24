@@ -1,1 +1,17 @@
 
+1. $ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+2.$ git shortlog -s 7 total commits
+$ git log -1 --pretty="format:%ci" README.md
+2024-02-23 19:00:52 -0600
+4. In case there is wrong information uploaded and in order to keep a history of changes
+5. the git log contains the history via snapshots and git status lets you look at the working directory.
+6. You would use the git log command
+7.You would use the git show command
+8. Inheritance is deriving a new class from an already existing class. Encapsulation protects the information contained in a file. Polymorphism is the ability to change the way a function works based on which class of object it is being performed on.
+9. The Dictator and lieutenants workflow is used for larger projects with more collaborators.
+10. It splits the work into smaller sections so that each developer can focus on the the task they need to work on.
